@@ -1,0 +1,6 @@
+Programa Compras          
+Data de Impressão: 7/1/2019
+
+                      Lista ee
+-------------------------------------------------------------
+          Nome          |     Quantidade     |     Preço    

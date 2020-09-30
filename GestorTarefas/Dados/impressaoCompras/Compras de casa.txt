@@ -1,0 +1,10 @@
+Programa Compras          
+Data de Impressão: 18/2/2019
+
+                      Lista Compras de casa
+-------------------------------------------------------------
+          Nome          |     Quantidade     |     Preço    
+ [ ] Batatas Fritas              30                0.5
+ [ ] Uvas                        10                1.5
+ [ ] Pneus                       10                7.2
+ [ ] Rabanadas                   54                0.8

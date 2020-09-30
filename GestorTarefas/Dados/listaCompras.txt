@@ -1,0 +1,3 @@
+"Compras de casa";"4"
+"Vegetais";"3"
+"bolas";"2"
